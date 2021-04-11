@@ -14,11 +14,6 @@ Roy Meri - Cyber
 arnon bain- IAI -INTEGRATION
 
 
-
-Yehudit Melnik - ITC
-
-
-
 Dvora Karelinstein - Full Stack
 
 David Rozanes - Developer
@@ -27,13 +22,6 @@ Roy Meri - Cyber
 
 Dudi - Malat
 
-Dudi - Malat
 
-Yehudit Melnik - System
-
-<<<<<<< HEAD
-
-
-=======
 Yehudit Melnik - Petach Tikvah
 
