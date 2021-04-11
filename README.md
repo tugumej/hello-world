@@ -27,9 +27,5 @@ Roy Meri - Cyber
 
 Dudi - Malat
 
-Yehudit Melnik - ITC
-<<<<<<< HEAD
->>>>>>> fc5f4b9c89a401758ec275c294147a83b10340be
-=======
+Yehudit Melnik - System
 
->>>>>>> 8cb139b5ae1f99fe7c8a90a025ba183f814e95e1
