@@ -1,15 +1,19 @@
 # hello-world
 
+Dan Navon -Data Scientist
 
 Dan Navon -Lod
 
 Yarin Dolev - DevOps - Test
+
+Leon Jalfon - Sela Group
 
 Yehudit Melnik - ITC
 
 Roy Meri - Cyber
 
 AC - SW Devops, x2
+arnon bain- IAI
 
 Roy Meri - Cyber
 
@@ -22,6 +26,7 @@ David Rozanes - Developer
 
 Roy Meri - Cyber
 
+Iman
 AsafH - Dev
 
 Dudi - Malat
@@ -29,5 +34,4 @@ Dudi - Malat
 Assaf Derey - Automation
 
 Gonen Ettinger
-
 
