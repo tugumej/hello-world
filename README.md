@@ -1,6 +1,7 @@
 # hello-world
 
 Dan Navon -Data Scientist
+
 Dan Navon -Lod
 
 Yarin Dolev - DevOps - Test
@@ -14,18 +15,20 @@ Roy Meri - Cyber
 AC - SW Devops, x2
 arnon bain- IAI
 
-Yehudit Melnik - ITC
+Roy Meri - Cyber
 
+arnon bain- IAI -INTEGRATION - ROSH HAHAYIN
 
 Dvora Karelinstein - Full Stack
+Dvora Karelinstein - Bnei Brak
 
 David Rozanes - Developer
 
 Roy Meri - Cyber
 
 Iman
+AsafH - Dev
+
 Dudi - Malat
 
-Yehudit Melnik - System
-
-Yehudit Melnik - Petach Tikvah
+Assaf Derey - Automation
