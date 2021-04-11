@@ -6,3 +6,5 @@ Dan Navon -Data Scientist
 Dan Navon -Lod
 
 Yarin Dolev - DevOps - Test
+
+Leon Jalfon - Sela Group
