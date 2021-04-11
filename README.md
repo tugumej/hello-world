@@ -8,3 +8,5 @@ Dan Navon -Lod
 Yarin Dolev - DevOps - Test
 
 Roy Meri - Cyber
+
+Dvora Karelinstein - Full Stack
