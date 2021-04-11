@@ -9,7 +9,7 @@ Yarin Dolev - DevOps - Test
 AC - SW Devops, x2
 
 Roy Meri - Cyber
-=======
+
 
 arnon bain- IAI
 
@@ -20,6 +20,7 @@ Yehudit Melnik - ITC
 
 
 Dvora Karelinstein - Full Stack
+Dvora Karelinstein - Bnei Brak
 
 David Rozanes - Developer
 
@@ -31,9 +32,6 @@ Dudi - Malat
 
 Yehudit Melnik - System
 
-<<<<<<< HEAD
 
-
-=======
 Yehudit Melnik - Petach Tikvah
 
