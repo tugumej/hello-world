@@ -13,7 +13,7 @@ AC - SW Devops, x2
 
 Roy Meri - Cyber
 
-arnon bain- IAI -INTEGRATION
+arnon bain- IAI -INTEGRATION - ROSH HAHAYIN
 
 Dvora Karelinstein - Full Stack
 Dvora Karelinstein - Bnei Brak
