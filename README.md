@@ -16,6 +16,7 @@ Roy Meri - Cyber
 arnon bain- IAI -INTEGRATION
 
 Dvora Karelinstein - Full Stack
+Dvora Karelinstein - Bnei Brak
 
 David Rozanes - Developer
 
@@ -24,6 +25,7 @@ Roy Meri - Cyber
 AsafH - Dev
 
 Dudi - Malat
+
 
 
 
