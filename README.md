@@ -4,4 +4,4 @@
 
 Dan Navon -Data Scientist
 Dan Navon -Lod
-Leon Jalfon - Sela Group
+--> Leon Jalfon - Sela Group
