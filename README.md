@@ -9,6 +9,18 @@ Yarin Dolev - DevOps - Test
 Yehudit Melnik - ITC
 
 Roy Meri - Cyber
+=======
+AC - SW Devops
+
+Roy Meri - Cyber
+=======
+
+arnon bain- IAI
+
+
+
+Yehudit Melnik - ITC
+
 
 Dvora Karelinstein - Full Stack
 
@@ -19,3 +31,5 @@ Roy Meri - Cyber
 AsafH - Dev
 
 Dudi - Malat
+
+Yehudit Melnik - System
