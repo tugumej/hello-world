@@ -5,4 +5,4 @@
 Dan Navon -Data Scientist
 Dan Navon -Lod
 
-Yarin Dolev - DevOps
+Yarin Dolev - DevOps - Test
