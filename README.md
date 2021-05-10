@@ -1,9 +1,14 @@
 # hello-world
 
 
+
+Lilach Levi - ELTA
+
 Michael Katzman Elta
 
+
 Michael Fried - ELTA
+Michael Fried - Analyst
 
 Dan Navon -Data Scientist
 
@@ -49,6 +54,8 @@ Yarin Dolev - Sela Group
 
 
 
+
+
 Yehuda Roth - IAI
 
 
@@ -59,6 +66,7 @@ Adi - Developer
 
 
 Yehuda Roth - SW Engineer
+
 
 Michael Katzman Ashkelon
 
