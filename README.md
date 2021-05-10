@@ -1,7 +1,11 @@
 # hello-world
 
 
+
 Lilach Levi - ELTA
+
+Michael Katzman Elta
+
 
 Michael Fried - ELTA
 
@@ -44,4 +48,20 @@ yizchakweiss-Elta
 Gavriel Medina
 
 Yarin Dolev - Sela Group
->>>>>>> 76880702e8f314094eca632a5904d96c1f326b17
+
+
+
+
+
+Yehuda Roth - IAI
+
+
+Adi - Elta
+
+
+Adi - Developer
+
+
+Yehuda Roth - SW Engineer
+
+>>>>>>> 06d4999d998dc3dea7f24caf74b0e646eb8eeb00
