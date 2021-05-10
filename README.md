@@ -1,5 +1,8 @@
 # hello-world
 
+
+Michael Katzman Elta
+
 Michael Fried - ELTA
 Michael Fried - Analyst
 
@@ -42,3 +45,17 @@ yizchakweiss-Elta
 Gavriel Medina
 
 Yarin Dolev - Sela Group
+
+
+
+Yehuda Roth - IAI
+
+
+Adi - Elta
+
+
+Adi - Developer
+
+
+Yehuda Roth - SW Engineer
+
