@@ -35,6 +35,8 @@ Roy Meri - Cyber
 
 arnon bain- IAI -INTEGRATION - ROSH HAHAYIN
 
+Michael Katzman developer
+
 Dvora Karelinstein - Full Stack
 Dvora Karelinstein - Bnei Brak
 
@@ -52,6 +54,7 @@ Assaf Derey - Automation
 Gonen Ettinger
 
 yizchakweiss-Elta
+
 Gavriel Medina
 
 Yarin Dolev - Sela Group
@@ -60,6 +63,9 @@ Moti Eitan - Developer
 
 
 
+Gavriel Medina - Elta
+
+Yarin Dolev - Sela Group
 
 Yehuda Roth - IAI
 
@@ -73,5 +79,9 @@ Adi - Developer
 
 
 Yehuda Roth - SW Engineer
+
+
+
+Michael Katzman Ashkelon
 
 
