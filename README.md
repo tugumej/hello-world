@@ -48,13 +48,10 @@ Assaf Derey - Automation
 Gonen Ettinger
 
 yizchakweiss-Elta
-Gavriel Medina
+
+Gavriel Medina - Elta
 
 Yarin Dolev - Sela Group
-
-
-
-
 
 Yehuda Roth - IAI
 
