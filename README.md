@@ -24,6 +24,8 @@ Roy Meri - Cyber
 
 arnon bain- IAI -INTEGRATION - ROSH HAHAYIN
 
+Michael Katzman developer
+
 Dvora Karelinstein - Full Stack
 Dvora Karelinstein - Bnei Brak
 
