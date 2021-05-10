@@ -39,3 +39,5 @@ Gonen Ettinger
 yizchakweiss-Elta
 Gavriel Medina
 Yarin Dolev - Sela Group
+
+Adi - Elta
