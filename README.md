@@ -3,6 +3,8 @@
 
 Michael Katzman Elta
 
+Michael Fried - ELTA
+
 Dan Navon -Data Scientist
 
 Dan Navon -Lod
@@ -40,5 +42,6 @@ Gonen Ettinger
 
 yizchakweiss-Elta
 Gavriel Medina
+
 Yarin Dolev - Sela Group
 >>>>>>> 0f0d68e57b14170519160542ca6d179fc5717234
