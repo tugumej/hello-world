@@ -1,6 +1,7 @@
 # hello-world
 
-<<<<<<< HEAD
+Michael Fried - ELTA
+
 Dan Navon -Data Scientist
 
 Dan Navon -Lod
@@ -38,6 +39,7 @@ Gonen Ettinger
 
 yizchakweiss-Elta
 Gavriel Medina
+
 Yarin Dolev - Sela Group
 
 Adi - Elta
