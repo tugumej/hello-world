@@ -1,6 +1,7 @@
 # hello-world
 
 Michael Fried - ELTA
+Michael Fried - Analyst
 
 Dan Navon -Data Scientist
 
