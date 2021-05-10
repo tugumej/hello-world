@@ -1,5 +1,8 @@
 # hello-world
 
+
+Michael Katzman Elta
+
 Michael Fried - ELTA
 
 Dan Navon -Data Scientist
@@ -43,7 +46,9 @@ Gavriel Medina
 Yarin Dolev - Sela Group
 
 
+
 Yehuda Roth - IAI
+
 
 Adi - Elta
 
