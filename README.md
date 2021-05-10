@@ -1,9 +1,9 @@
 # hello-world
 
-<<<<<<< HEAD
+
 Yarin Dolev - Sela Group
 Moti Eitan - Elta
-=======
+
 
 Michael Katzman Elta
 
@@ -57,6 +57,10 @@ Yehuda Roth - IAI
 
 Adi - Elta
 
+
+
+
+Adi - Developer
 
 
 Yehuda Roth - SW Engineer
