@@ -37,6 +37,7 @@ Assaf Derey - Automation
 
 Gonen Ettinger
 
+yizchakweiss-Elta
 Gavriel Medina
 
 Yarin Dolev - Sela Group
