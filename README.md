@@ -1,5 +1,6 @@
 # hello-world
 
+<<<<<<< HEAD
 Dan Navon -Data Scientist
 
 Dan Navon -Lod
@@ -36,3 +37,6 @@ Assaf Derey - Automation
 Gonen Ettinger
 
 Gavriel Medina
+=======
+Yarin Dolev - Sela Group
+>>>>>>> 5c49b12b126bcb70f77e8f17ea06d1c268881260
