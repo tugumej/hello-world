@@ -1,3 +1,3 @@
 # hello-world
 
-Yarin Dolev - Sela Group
+Itzik Kaufman - ELTA
