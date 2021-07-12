@@ -1,4 +1,4 @@
 Yarin Dolev - Sela Group
-<<<<<<< HEAD
 Yarin Dolev - DevOps
 Efter yoram xxxxxx
+
