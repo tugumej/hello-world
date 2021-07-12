@@ -21,3 +21,4 @@ Yura Bidus - Software Engineer
 shiri earon  =Hod hasharon
 Dror Gilad - Mishmar david
 Eti A - bet dagan
+shiri earon - FPGa
