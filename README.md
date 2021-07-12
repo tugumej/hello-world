@@ -9,6 +9,5 @@ Yarin Dolev - DevOps
 Yarin Dolev - Tel-Aviv
 Yura Bidus Ramat Gan
 Shiri earon - taasia avirit
-
->>>>>>> 713b832eeeec3bada1d865c403fb4c9cf2ee3869
-shiri earon  =Hod hasharon
+shiri earon  =Hod has
+josefk kadouri ramat gan
