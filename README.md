@@ -14,8 +14,5 @@ Yura Bidus Ramat Gan
 Yura Bidus - Software Engineer
 shiri earon  =Hod hasharon
 Dror Gilad - Mishmar david
-<<<<<<< HEAD
 Eti A - bet dagan
-=======
 shiri earon - FPGa
->>>>>>> efbdd240741bc1158bbea8710466fa8fb4899ec4
